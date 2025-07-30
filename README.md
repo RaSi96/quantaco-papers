@@ -1,5 +1,5 @@
 # Quantaco Papers
-Welcome! This is a repository of the papers/articles I had published on [Quantaco's Medium tech blog](https://medium.com/@quantaco_rahuls) whilst a Data Scientist there (2023-2025).
+Welcome! This is a repository of the papers/articles I had published on [Quantaco's Medium tech blog](https://medium.com/@quantaco_rahuls) whilst a (the only) Data Scientist there (2023-2025).
 
 The `src` folder contains subfolders with (almost) all of the papers/articles in Markdown/LaTeX. Wherever appropriate, original resolution images have also been included. Each article _should_ correctly compile into a PDF with this kind of `pandoc` command:
 
